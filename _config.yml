@@ -1,0 +1,14 @@
+layout_spectrum: 0.6214165
+typography_spectrum: 0.2588533
+color:
+  saturation: 0.5805208
+  lightness: 0.1136065
+  brandStrength: 0.8145025
+  brandColors:
+    - '#7489B4'
+    - '#375489'
+    - '#D0867F'
+    - '#F8FBFF'
+    - '#4B5430'
+  rhythmicContrast: 0.2018305
+name: Pictures and stuff
